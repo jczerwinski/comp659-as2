@@ -1,5 +1,6 @@
-# Demonstration
+Find this repository at https://github.com/jczerwinski/comp659-as2
 
+# Demonstration
 
 ```sh
 pipenv install
